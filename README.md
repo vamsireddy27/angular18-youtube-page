@@ -1,2 +1,2 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08fa1ce1-4404-40bf-aa3c-1c0dc55ecd2a" />
-# angular18-youtube-page
+<img width="1914" height="993" alt="{98037D67-AB88-4220-9C96-27F4E0F02D73}" src="https://github.com/user-attachments/assets/2a5ed1ae-f2d0-4fb1-bc74-ff0b085d9ee1" />
+
